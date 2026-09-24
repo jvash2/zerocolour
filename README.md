@@ -1,2 +1,2 @@
-# zerocolor
+# zerocolour
 PrivacyPolicy
