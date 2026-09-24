@@ -1,3 +1,42 @@
+Privacy Policy — Zero Colour
+Last updated: September 23, 2026
+
+This policy describes how Zero Colour ("the Game"), developed by coffeeandcookies2k, handles user information.
+
+1. Information we collect
+The Game is designed to collect as little information as possible. We do not collect names, addresses, phone numbers, location, or contacts.
+
+Game progress: your progress, cards, gold and statistics are stored only on your device and are never sent to any server.
+Purchase identifier: to verify the full-game purchase, the Game generates a random identifier that is not linked to your identity. It is used only to confirm the purchase is valid.
+Purchase data: when you buy the full game, the product ID, transaction ID and purchase receipt are processed as needed to verify it.
+2. Payments
+In-game purchases are processed through Aptoide and its payment system. We never have access to your card details or payment information. That data is handled by Aptoide under its own privacy policy.
+
+3. How we use information
+Purchase information is used solely to verify the purchase is legitimate and to unlock the full game. It is not used for advertising, profiling, or any other purpose.
+
+4. Sharing information
+We do not sell, rent or share your information with third parties, except as strictly necessary to process and verify purchases (Aptoide and our verification server).
+
+5. Advertising and tracking
+The Game contains no advertising and does not use third-party tracking or analytics tools.
+
+6. Children
+The Game does not knowingly collect personal information from children. Since we request no personal data, the Game can be used without providing any.
+
+7. Your rights
+Since your progress is stored only on your device, you can delete it at any time by uninstalling the Game. For any questions about your data, contact us at soportecofecookiek@gmail.com
+
+8. Changes to this policy
+We may update this policy occasionally. Changes will be posted on this page with an updated date.
+
+9. Contact
+Questions: soportecofecookiek@gmail.com
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 Política de Privacidad — Zero Colour
 Última actualización: 23 de septiembre de 2026
 
@@ -26,7 +65,7 @@ El Juego no contiene publicidad y no utiliza herramientas de seguimiento ni anal
 El Juego no recopila deliberadamente información personal de menores. Como no solicitamos datos personales, el Juego puede ser usado sin brindar ninguno.
 
 7. Tus derechos
-Como tu progreso se guarda solo en tu dispositivo, podés eliminarlo en cualquier momento desinstalando el Juego. Para cualquier consulta sobre tus datos, escribinos a soportecofecookiek@gmail.com.
+Como tu progreso se guarda solo en tu dispositivo, podés eliminarlo en cualquier momento desinstalando el Juego. Para cualquier consulta sobre tus datos, escribinos a soportecofecookiek@gmail.com
 
 8. Cambios en esta política
 Podemos actualizar esta política ocasionalmente. Los cambios se publicarán en esta misma página, con la fecha actualizada.
@@ -34,37 +73,3 @@ Podemos actualizar esta política ocasionalmente. Los cambios se publicarán en 
 9. Contacto
 Consultas: soportecofecookiek@gmail.com
 
-Privacy Policy — Zero Colour
-Last updated: September 23, 2026
-
-This policy describes how Zero Colour ("the Game"), developed by coffeeandcookies2k, handles user information.
-
-1. Information we collect
-The Game is designed to collect as little information as possible. We do not collect names, addresses, phone numbers, location, or contacts.
-
-Game progress: your progress, cards, gold and statistics are stored only on your device and are never sent to any server.
-Purchase identifier: to verify the full-game purchase, the Game generates a random identifier that is not linked to your identity. It is used only to confirm the purchase is valid.
-Purchase data: when you buy the full game, the product ID, transaction ID and purchase receipt are processed as needed to verify it.
-2. Payments
-In-game purchases are processed through Aptoide and its payment system. We never have access to your card details or payment information. That data is handled by Aptoide under its own privacy policy.
-
-3. How we use information
-Purchase information is used solely to verify the purchase is legitimate and to unlock the full game. It is not used for advertising, profiling, or any other purpose.
-
-4. Sharing information
-We do not sell, rent or share your information with third parties, except as strictly necessary to process and verify purchases (Aptoide and our verification server).
-
-5. Advertising and tracking
-The Game contains no advertising and does not use third-party tracking or analytics tools.
-
-6. Children
-The Game does not knowingly collect personal information from children. Since we request no personal data, the Game can be used without providing any.
-
-7. Your rights
-Since your progress is stored only on your device, you can delete it at any time by uninstalling the Game. For any questions about your data, contact us at soportecofecookiek@gmail.com.
-
-8. Changes to this policy
-We may update this policy occasionally. Changes will be posted on this page with an updated date.
-
-9. Contact
-Questions: soportecofecookiek@gmail.com
